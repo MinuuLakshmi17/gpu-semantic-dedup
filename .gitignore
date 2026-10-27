@@ -1,0 +1,1 @@
+__pycache__/\n.pytest_cache/\n.venv/\n*.pyc\ndata/\noutput/\n*.parquet\n*.csv\ntorch-profiler-trace.json\n
